@@ -10,3 +10,48 @@ In this portfolio website, multiple sections are included such as a Home page, A
 This project also focuses on responsiveness, ensuring that the website works properly on different devices like desktops, tablets, and mobile phones. Additionally, the portfolio can be connected with Git and GitHub for version control, allowing easier updates and showcasing coding knowledge.
 
 Overall, the Portfolio Website project not only highlights technical skills but also demonstrates creativity and presentation abilities, making it an essential tool for students, job seekers, and developers aiming to build a strong online presence.
+
+PROCESS OF ADDING WORK FROM VS CODE USING GIT COMMANDS
+Make a github repository
+ 
+
+1.	git init:
+This command is used to initialize the uploading of work.
+ 
+2.	git clone:
+This command is used to clone a repository if something already exists in the repository.
+ 
+
+3.	git remote add origin:
+git remote add origin is a Git command used to link your local project folder (local repository) with a remote repository
+ 
+4.	git remote-v:
+This command is used to confirm remote add origin.
+ 
+5.	git add.:
+It is used to move changes from your working directory to the staging area so they can be committed.
+ 
+6.	git commit:
+git commit is used to save your staged changes permanently in the Git history.
+ 
+
+
+7.	 git push:
+git push is used to upload your local commits to a remote repository such as GitHub
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
