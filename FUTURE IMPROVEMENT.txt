@@ -1,0 +1,43 @@
+1. Add Dark Mode / Light Mode Toggle
+
+Improves user experience.
+
+Modern feature found on most professional websites.
+
+Can be implemented using CSS variables and JavaScript.
+
+ 2. Make the Website Fully Responsive
+
+Optimize layouts for mobile, tablet, and large screens.
+
+Use:
+
+Media queries
+
+Flexbox/Grid adjustments
+
+Responsive images
+
+ 3. Add More Sections
+
+I will  include:
+
+Projects with live demo links
+
+Blogs / Articles
+
+Certifications
+
+Skills with progress bars
+Experience Timeline
+
+ 4. Add Animations and Transitions
+
+Smooth fade-ins, hover effects, load animations.
+Use CSS transitions or GSAP/Framer Motion for advanced effects.
+
+ 
+
+ 5. Add Contact Form with Backend
+Use EmailJS, Firebase, or a simple server (Node/PHP).
+Allows users to send messages directly to your email.
